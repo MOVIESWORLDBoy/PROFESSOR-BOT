@@ -56,12 +56,7 @@
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
-  
-### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video]([https://youtu.be/1G1XwEOnxxoimages](https://github.com/MOVIESWORLDBoy/PROFESSOR-BOT.git) can be used seperated by space )
 * `USE_CAPTION_FILTER` : Whether bot should use captions to improve search results. (True False)
 * `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
